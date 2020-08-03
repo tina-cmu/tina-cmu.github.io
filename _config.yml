@@ -1,2 +1,4 @@
 theme: jekyll-theme-slate
-site.github.is_project_page: false
+title: Trans, Intersex, and Non-binary Alliance at CMU
+github:
+  is_project_page: false
