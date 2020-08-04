@@ -6,7 +6,7 @@ title: Trans, Intersex, & Nonbinary Alliance (TINA) at CMU
 
 [Demands](https://tinyurl.com/TIN-DEMANDS)
 
-[Contact](tin-alliance@andrew.cmu.edu)
+[Contact](sendto:tin-alliance@andrew.cmu.edu)
 
 [Join the Alliance](tinyurl.com/tina-join)
 
