@@ -1,7 +1,5 @@
 ---
 title: Trans, Intersex, & Nonbinary Alliance (TINA) at CMU
----
----
 description: "Support first, Action second." TINA is a support and action network of trans, intersex, non-binary, and questioning (TINQ) individuals that is dedicated to supporting our needs, inclusion, and equitable access across Carnegie Mellon University.
 ---
 
